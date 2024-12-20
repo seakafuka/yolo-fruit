@@ -1,0 +1,11 @@
+names:
+- Apple
+- Banana
+- Grape
+- Orange
+- Pineapple
+- Watermelon
+nc: 6
+test: E:\vscode_code\apple_and banana_final\test\images
+train: E:\vscode_code\apple_and banana_final\train\images
+val: E:\vscode_code\apple_and banana_final\test\images
